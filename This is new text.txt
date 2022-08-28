@@ -1,0 +1,4 @@
+new file new start
+Today we are in the 2nd session.
+touch (new text)
+nano (new text)
